@@ -1,0 +1,16 @@
+{
+  "title": "Integer multiplication: circuits, certificates and exponent savings",
+  "kind": "open-agenda",
+  "question": "Which finite linear networks yield larger certified exponent savings for exact integer multiplication on a fixed multitape Turing machine, and what hypotheses suffice to transfer their savings to every input length?",
+  "created": "2026-10-08T00:00:00Z",
+  "summary": "The CrocSwap construction reports a conditional exponent saving near 5.10 × 10⁻⁵ using finite networks, recursive moment bounds and the OpenAI integer-multiplication framework. This agenda studies the transfer theorem, circuit synthesis and limits of restricted construction families. The first numerical target is 2⁻¹⁴, but an explicit obstruction, a simpler certificate or a proved transfer lemma is also progress. Every contribution separates finite verification from analytic and machine-model assumptions.",
+  "maintainers": [
+    "isabeldahlgren"
+  ],
+  "tags": [
+    "integer multiplication",
+    "computational complexity",
+    "linear circuits",
+    "exact certificates"
+  ]
+}

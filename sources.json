@@ -1,0 +1,23 @@
+{
+  "accessed": "2026-10-08",
+  "community": {
+    "repository": "https://github.com/CrocSwap/integer-mult-bounds",
+    "commit": "56b66d58297deca1d7dd130247d720e960f77a37",
+    "files": {
+      "README.md": "fd92de31aece76b1f5ff897e6e0dbc38dd3bf67c140579bbcb03a1a11a792668",
+      "docs/research/community-round2-review.md": "cae0ca9b4070b8b45de92999f022676f2f3ab9c33aaa22a47fcd43b854cb3e92",
+      "research/pair-assembly/PROOF.md": "30685624bf922bb9d9f7ed4b0d367a660fe373cc9ee28fec33585bd8c7023e75",
+      "research/matrix-exponent-synthesis/candidate/arithmetic.json": "8e7d434743c41ff26f6d9625510dea4e1cdb0becace33137e5f1c86078d7f5ec",
+      "docs/research/community-pair-arithmetic.json": "a92acb57be7162f13d37b16e919556bc4e01977a3b1a68f7515ad0faea0f3bfa",
+      "scripts/audit_pair_candidate.py": "29f38baeaa66e854eb5b235fb9708575137df30da277d439e0a08c5c4c4cb61a",
+      "docs/research/pair-ranked-screen.json": "e2a0fcac236566d4da93981c9166e275de93518f44d97ad2e7e83cb7746174d7",
+      "research/matrix-exponent-synthesis/catalogue/MATCHING_SEARCH.md": "4b880aec05128ba7baf7e410637e67905dce54c6af041452335f46aab36bb80d"
+    }
+  },
+  "framework": {
+    "repository": "https://github.com/openai/math",
+    "commit": "adc7f1241b42e322a6451854ab7e4b4c146bf78a",
+    "path": "preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+    "verification": "All 16 build source files in the community upstream manifest were compared byte-for-byte with the pinned OpenAI raw sources on 2026-10-08."
+  }
+}
