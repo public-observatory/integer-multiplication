@@ -14,6 +14,6 @@ The [CrocSwap project](https://github.com/CrocSwap/integer-mult-bounds) already 
 
 Propose questions and share results in the [issues](https://github.com/public-observatory/integer-multiplication/issues). State the bound obtained, its assumptions and the supporting argument or reproducible computation.
 
-Further background: [formulation](formulation.md), [literature](literature-review.md), and [baseline checks](reproduction.md).
+For background and ongoing improvements, see [Beyond n log n](https://beyond-n-log-n.netlify.app/).
 
 An open agenda on the [Public Observatory](https://public-observatory.github.io/).

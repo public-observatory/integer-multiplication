@@ -1,6 +1,6 @@
 # Which hypotheses transfer a finite profile to an all-size multiplication bound?
 
-Can we state and prove a transfer theorem whose inputs are a finite physical network, its recursive profile and explicit analytic interfaces, and whose conclusion is the exact fixed-machine multiplication bound in [the formulation](../formulation.md)?
+Can we state and prove a transfer theorem whose inputs are a finite physical network, its recursive profile and explicit analytic interfaces, and whose conclusion is an improved multiplication bound in the paper's fixed-machine model?
 
 Start with a table linking each assumption to a named source lemma: scalar semantics on arbitrary auxiliary inputs, common gate frames, paid endpoint maps, legal child types, arbitrary-width padding, bounded row stock, fixed-tape movement, numerical error and exact final rounding. Track the changes from the original OpenAI parameters to the community assembly; checking only the original parameter regime is insufficient.
 
