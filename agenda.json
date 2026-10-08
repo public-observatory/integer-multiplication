@@ -1,9 +1,9 @@
 {
-  "title": "Integer multiplication: circuits, certificates and exponent savings",
+  "title": "Improving the integer multiplication bound",
   "kind": "open-agenda",
-  "question": "Which finite linear networks yield larger certified exponent savings for exact integer multiplication on a fixed multitape Turing machine, and what hypotheses suffice to transfer their savings to every input length?",
+  "question": "Can we improve the bound in OpenAI's Integer multiplication below n log n?",
   "created": "2026-10-08T00:00:00Z",
-  "summary": "The CrocSwap construction reports a conditional exponent saving near 5.10 × 10⁻⁵ using finite networks, recursive moment bounds and the OpenAI integer-multiplication framework. This agenda studies the transfer theorem, circuit synthesis and limits of restricted construction families. The first numerical target is 2⁻¹⁴, but an explicit obstruction, a simpler certificate or a proved transfer lemma is also progress. Every contribution separates finite verification from analytic and machine-model assumptions.",
+  "summary": "OpenAI's paper gives an integer multiplication algorithm with running time O(n (log n)^(1−κ)) for κ = 2⁻¹⁸² on a fixed multitape Turing machine. Can we obtain a better asymptotic bound in the same model? The CrocSwap project provides constructions and certificates for conditional improvements, offering a starting point for further work.",
   "maintainers": [
     "isabeldahlgren"
   ],
