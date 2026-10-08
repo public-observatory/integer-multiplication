@@ -35,14 +35,14 @@ Our first numerical target is $\kappa\geq 2^{-14}$. This target is a research ch
 
 | Question | First deliverable | What would count as progress? |
 |---|---|---|
-| [Q1. Transfer assumptions](questions/01-transfer.md) | A dependency table from finite profiles to exact output | A proved interface lemma or an explicit failure of a stated hypothesis |
-| [Q2. Small independent verifier](questions/02-verifier.md) | A certificate format with negative controls | Independent replay of one reduced network and exact recurrence checks |
-| [Q3. Search for the full recurrence objective](questions/03-synthesis.md) | A bounded search over graphs, schedules and role reuse | A certified improvement or a rigorous optimum in the declared search class |
-| [Q4. Limits of restricted circuit families](questions/04-barriers.md) | A bound that survives all schedules in one specified family | A proof that a target requires leaving that family |
-| [Q5. Precision and useful slack](questions/05-precision.md) | An explicit tradeoff between saving, contraction gap and thresholds | A simpler or more robust witness with all costs retained |
-| [Q6. Coupled recursive constructions](questions/06-coupled.md) | A two-type recurrence with paid changes of representation | A certified gain beyond its scalar alternatives, or an obstruction |
-| [Q7. Changing the algebraic construction](questions/07-algebra.md) | One new incidence or frame family with an exact compiler | A better complete profile, rather than only a lower abstract rank |
-| [Q8. A reusable movement theorem](questions/08-movement.md) | A precise class of layouts covered by the address primitive | A proved application or a sharp boundary beyond existing transposition results |
+| [Q1. Transfer assumptions](https://github.com/public-observatory/integer-multiplication/issues/1) | A dependency table from finite profiles to exact output | A proved interface lemma or an explicit failure of a stated hypothesis |
+| [Q2. Small independent verifier](https://github.com/public-observatory/integer-multiplication/issues/2) | A certificate format with negative controls | Independent replay of one reduced network and exact recurrence checks |
+| [Q3. Search for the full recurrence objective](https://github.com/public-observatory/integer-multiplication/issues/3) | A bounded search over graphs, schedules and role reuse | A certified improvement or a rigorous optimum in the declared search class |
+| [Q4. Limits of restricted circuit families](https://github.com/public-observatory/integer-multiplication/issues/4) | A bound that survives all schedules in one specified family | A proof that a target requires leaving that family |
+| [Q5. Precision and useful slack](https://github.com/public-observatory/integer-multiplication/issues/5) | An explicit tradeoff between saving, contraction gap and thresholds | A simpler or more robust witness with all costs retained |
+| [Q6. Coupled recursive constructions](https://github.com/public-observatory/integer-multiplication/issues/6) | A two-type recurrence with paid changes of representation | A certified gain beyond its scalar alternatives, or an obstruction |
+| [Q7. Changing the algebraic construction](https://github.com/public-observatory/integer-multiplication/issues/7) | One new incidence or frame family with an exact compiler | A better complete profile, rather than only a lower abstract rank |
+| [Q8. A reusable movement theorem](https://github.com/public-observatory/integer-multiplication/issues/8) | A precise class of layouts covered by the address primitive | A proved application or a sharp boundary beyond existing transposition results |
 
 Start with Q1 and Q2, then use their contracts to evaluate Q3 and Q4. Q5 can study the fixed checkpoint immediately. Q6–Q8 are exploratory and should begin with small exact examples. The [formulation](formulation.md) gives the recurrence and the [literature review](literature-review.md) records what these directions must improve upon.
 
